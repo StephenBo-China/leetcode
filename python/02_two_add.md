@@ -34,11 +34,11 @@
 - 边界case：
 如果最大的位数相加后除以10大于0，这时两链表均已遍历完成，但需要将除以10大于0的部分向前进一位放到结果链表中。
 
-整体思路如下图：
+[整体思路如下图]：
 
 <img src="https://stephen-bo-data-store-1311928953.cos.ap-beijing.myqcloud.com/temp.png" style="zoom:50%" />
 
-代码：
+[代码]：
 ```python
 # Definition for singly-linked list.
 # class ListNode(object):
