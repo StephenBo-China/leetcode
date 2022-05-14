@@ -1,4 +1,5 @@
 {
     "code-runner.runInTerminal": true,
-    "code-runner.ignoreSelection": true
+    "code-runner.ignoreSelection": true,
+    "jupyter.jupyterServerType": "remote"
 }
